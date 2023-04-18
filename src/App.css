@@ -1,0 +1,27 @@
+.Teacher {
+  width: 70%;
+  margin: 30px auto;
+}
+
+.Header {
+  background-color: #eee;
+}
+
+.tt-btn {
+  width: 70px;
+}
+
+.TimeTable {
+  width: 350px;
+  margin: 20px auto;
+}
+
+.teacher-info {
+  width: 70%;
+  margin: 30px auto;
+}
+
+.teacher-info-text {
+  margin-top: 3px;
+  margin-bottom: 3px;
+}
