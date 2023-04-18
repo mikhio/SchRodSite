@@ -14,7 +14,7 @@ class Header extends React.Component {
       <div className="Header">
         <Navbar expand="lg">
           <Container fluid>
-            <Navbar.Brand href="#">SchRod</Navbar.Brand>
+            <Navbar.Brand href="/">SchRod</Navbar.Brand>
             <Navbar.Toggle aria-controls="navbarScroll" />
             <Navbar.Collapse id="navbarScroll">
               <Nav
@@ -22,7 +22,7 @@ class Header extends React.Component {
                 style={{ maxHeight: '100px' }}
                 navbarScroll
               >
-                <Nav.Link href="#">Home</Nav.Link>
+                <Nav.Link href="/">Home</Nav.Link>
               </Nav>
               <Form className="d-flex">
                 <Form.Control
